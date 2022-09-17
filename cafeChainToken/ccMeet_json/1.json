@@ -1,0 +1,39 @@
+{
+    "image": "ipfs://QmUKrnMBjVTQTmajb15rY2wx3Z6xGJuZLNL9CMrkaPD46L/1.jpg",
+    "name": "#1",
+    "description": "Welcome to Café Chain!",
+    "attributes": [
+        {
+            "trait_type": "Hair Color",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "Hair Length",
+            "value": "Medium"
+        },
+        {
+            "trait_type": "Hair Type",
+            "value": "Straight"
+        },
+        {
+            "trait_type": "Hair Style",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Skin Tone",
+            "value": "Fair"
+        },
+        {
+            "trait_type": "Outfit",
+            "value": "Maid"
+        },
+        {
+            "trait_type": "Outfit Color",
+            "value": "Green"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "image": "ipfs://QmUKrnMBjVTQTmajb15rY2wx3Z6xGJuZLNL9CMrkaPD46L/2.jpg",
+    "name": "#2",
+    "description": "Welcome to Café Chain!",
+    "attributes": [
+        {
+            "trait_type": "Hair Color",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Hair Length",
+            "value": "Short"
+        },
+        {
+            "trait_type": "Hair Type",
+            "value": "Straight"
+        },
+        {
+            "trait_type": "Hair Style",
+            "value": "Ponytail"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Skin Tone",
+            "value": "Fair"
+        },
+        {
+            "trait_type": "Outfit",
+            "value": "Street"
+        },
+        {
+            "trait_type": "Outfit Color",
+            "value": "Yellow"
+        }
+    ]
+}
