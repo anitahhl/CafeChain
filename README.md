@@ -6,7 +6,7 @@
 
 ![image](https://lh5.googleusercontent.com/9LFR8bw0Kda_QywriXlvGYjW0Xxvc8s-hZWsuU8B1ZTQ1DLxpeClXj4kZZZ6AnhaGCiw5zPTUqQ52DG5wPk6hqm9GIspU9_ljpqyYlL4Pzz6ZSvMv_VnZrKiUKOwpOYzmZJSsniDATLUWfDLnA)
 
-網站：https://anitahhl.github.io/CafeChain/ （因系統架構，可能有載入錯誤跳彈窗、持續 Loading 等情況，若遇到請嘗試重新整理）
+網站：https://anitahhl.github.io/CafeChain/ （因系統是跑測試版，可能有載入錯誤跳彈窗、持續 Loading 等情況，若遇到可嘗試重新整理）
 
 Café Chain是一個建置在區塊鏈上的虛擬咖啡廳。在虛擬咖啡廳中使用者將化身為自己擁有的NFT或免費預設人物，在包廂中與朋友或同事進行聊天，享有身歷其境般的體驗。除了進行對話，也可以透過Café Chain的代幣 "Café Chain Coin(C.C.O)" 購買輕食與飲品。使用者除了可以線上購買代幣，也可以透過每日簽到與完成任務來獲得代幣。
 
