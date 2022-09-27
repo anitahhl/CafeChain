@@ -505,8 +505,8 @@ export default function Home() {
 
 
       <Script src="js/utils.js"></Script>
-      // <Script src="js/bootstrap.min.js"></Script>
-      <Script src="js/smoothscroll.js"></Script>
+      <Script src="js/bootstrap.min.js"></Script>
+      // <Script src="js/smoothscroll.js"></Script>
       <Script src="js/custom.js"></Script>
     </>
   );
