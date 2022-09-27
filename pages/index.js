@@ -131,11 +131,11 @@ export default function Home() {
 
 
       {/* PRE LOADER */}
-      <section className="preloader">
-        <div className="spinner">
-          <span className="spinner-rotate" />
-        </div>
-      </section>
+      {/* <section className="preloader"> */}
+        {/* <div className="spinner"> */}
+          {/* <span className="spinner-rotate" /> */}
+        {/* </div> */}
+      {/* </section> */}
 
       {/* MENU */}
       <section className="navbar custom-navbar navbar-fixed-top" role="navigation">
@@ -506,7 +506,7 @@ export default function Home() {
 
       <Script src="js/utils.js"></Script>
       <Script src="js/bootstrap.min.js"></Script>
-      // <Script src="js/smoothscroll.js"></Script>
+      <Script src="js/smoothscroll.js"></Script>
       <Script src="js/custom.js"></Script>
     </>
   );
