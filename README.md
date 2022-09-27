@@ -6,9 +6,23 @@
 
 ![image](https://lh5.googleusercontent.com/9LFR8bw0Kda_QywriXlvGYjW0Xxvc8s-hZWsuU8B1ZTQ1DLxpeClXj4kZZZ6AnhaGCiw5zPTUqQ52DG5wPk6hqm9GIspU9_ljpqyYlL4Pzz6ZSvMv_VnZrKiUKOwpOYzmZJSsniDATLUWfDLnA)
 
-網站：https://anitahhl.github.io/CafeChain/ （因系統是跑測試版，可能有載入錯誤跳彈窗、持續 Loading 等情況，若遇到可嘗試重新整理）
+Café Chain是一個建置在區塊鏈上的虛擬咖啡廳。在虛擬咖啡廳中使用者將化身為自己擁有的NFT或免費預設人物，在包廂中與朋友或同事進行聊天，享有身歷其境般的體驗。除了進行對話，也可以透過 Café Chain 的代幣 "Café Chain Coin(C.C.O)" 購買輕食與飲品。使用者除了可以線上購買代幣，也可以透過每日簽到與完成任務來獲得代幣。
 
-Café Chain是一個建置在區塊鏈上的虛擬咖啡廳。在虛擬咖啡廳中使用者將化身為自己擁有的NFT或免費預設人物，在包廂中與朋友或同事進行聊天，享有身歷其境般的體驗。除了進行對話，也可以透過Café Chain的代幣 "Café Chain Coin(C.C.O)" 購買輕食與飲品。使用者除了可以線上購買代幣，也可以透過每日簽到與完成任務來獲得代幣。
+.
+
+### 網站 Demo
+
+
+https://user-images.githubusercontent.com/70381898/192601015-0e1b3c30-e15a-4e4f-900e-f58f223e216e.mp4
+
+
+網站：https://anitahhl.github.io/CafeChain/ 
+- 因系統為測試版，可能會遇到報錯或 Loading 過久狀況，若遇到建議嘗試重新整理，或直接觀看 Demo 影片
+- 備註：影片為求方便觀看，有做部分剪輯～
+ 
+.
+
+### 聊聊 Café Chain 
 
 在通訊軟體被廣泛使用的時代，市場上大多數的通訊軟體都是以頭像的方式來代表使用者，雖然方便使用，但卻忽略了使用者的環境享受和互動感，我們希望可以透過咖啡廳的虛擬環境，讓使用者以NFT虛擬人物的外觀在桌前面對面聊天，來讓使用者有更好的聊天體驗。
 
@@ -25,10 +39,3 @@ https://testnets.opensea.io/collection/cafechainmeet
 
 ### 或許對 CCO 有興趣？
 https://rinkeby.etherscan.io/token/0xB682f25e108fB051d2664bD7339ba699ccf8C759
-
-.
-
-### 網站完整 WEB3 互動效果
-
-![image](https://miro.medium.com/max/1400/1*H1VRJIUqDh98Er_EgekRKA.gif)
-
